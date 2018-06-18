@@ -3,7 +3,7 @@
 (function(){
 
     function Start() {
-        console.log(`Game Started Now...`);
+        console.log(`Game Started...`);
     }
 
     window.addEventListener("load", Start);
